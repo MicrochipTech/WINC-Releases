@@ -9,4 +9,5 @@ Features: **| ASF3 Driver | Firmware |**
 - [WINC1500 Release KBA](https://microchipsupport.force.com/s/article/How-to-update-the-firmware-of-WINC1500-module)
 
 ### WINC3400 Release Details Available At:
-- [WINC3400 Release KBA] (https://microchip.my.site.com/s/article/How-to-update-the-firmware-of-WINC3400-module)
+- [WINC3400 Release KBA](https://microchip.my.site.com/s/article/How-to-update-the-firmware-of-WINC3400-module)
+
