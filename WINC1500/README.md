@@ -5,7 +5,7 @@ This document summarises the firmware and driver releases for the Microchip ATWI
 ## Release Version 19.7.11 (Latest)
 
 ### ASF3 Packages
-- [WINC1500 Firmware Update Project](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_11/WINC1500_FIRMWARE_UPDATE_PROJECT.zip)
+- [WINC1500 Firmware Update Project](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_11/WINC1500_FIRMWARE_UPDATE_PROJECT.7z)
 - [Wi-Fi Host Driver](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_11/host_drv.zip)
 
 ### Release Details
@@ -23,7 +23,7 @@ This document summarises the firmware and driver releases for the Microchip ATWI
 ## Release Version 19.7.10
 
 ### ASF3 Packages
-- [WINC1500 Firmware Update Project](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_10/WINC1500_FIRMWARE_UPDATE_PROJECT.zip)
+- [WINC1500 Firmware Update Project](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_10/WINC1500_FIRMWARE_UPDATE_PROJECT.7z)
 - [Wi-Fi Host Driver](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_10/host_drv.zip)
 
 ### Release Details
@@ -38,8 +38,8 @@ This document summarises the firmware and driver releases for the Microchip ATWI
 ## Release Version 19.7.7
 
 ### ASF3 Packages
-- [WINC1500 Firmware Update Project](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_7/WINC1500_FIRMWARE_UPDATE_PROJECT.zip)
-- [Wi-Fi Host Driver](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_7/host_drv.zip)
+- [WINC1500 Firmware Update Project](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_7/WINC1500_FIRMWARE_UPDATE_PROJECT.7z)
+- [Wi-Fi Host Driver](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_7/host_drv.7z)
 
 ### Harmony3 Packages
 - [wireless_wifi Repository](https://github.com/Microchip-MPLAB-Harmony/wireless_wifi)
@@ -55,8 +55,8 @@ This document summarises the firmware and driver releases for the Microchip ATWI
 ## Release Version 19.7.6
 
 ### ASF3 Packages
-- [WINC1500 Firmware Update Project](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_6/WINC1500_FIRMWARE_UPDATE_PROJECT.zip)
-- [Wi-Fi Host Driver](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_6/host_drv.zip)
+- [WINC1500 Firmware Update Project](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_6/WINC1500_FIRMWARE_UPDATE_PROJECT.7z)
+- [Wi-Fi Host Driver](https://github.com/MicrochipTech/WINC-Releases/raw/refs/heads/master/WINC1500/19_7_6/host_drv.7z)
 
 ### Release Details
 - Countermeasures for 'Fragattack' vulnerabilities
